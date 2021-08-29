@@ -1,0 +1,326 @@
+what cuisine will you like? i recommend Han Kee Fish Soup. they have great value and good service. their fish soup is healthy and light.
+cuisine	Han Kee Fish Soup	great value	good service	fish soup	healthy	light
+Is venue or food more important for you? I have 2 suggestions right now but one is more for the ambience of venue and the other is more for food quality.
+ambience	food quality
+Well, I am not sure where I am at but also I do not have a specific region I want the restaurant to be.
+do not have a specific region
+I was hoping to visit a  history museum!
+history museum
+if you would prefer something more fancy, i would recommend Mandarin Orchard Singapore. it is a hotel located on orchard road, and it has scenic views of the singapore skyline, as seen in this picture.
+fancy	Mandarin Orchard Singapore	orchard road	scenic views	singapore skyline	picture
+Hello. I am travelling with my kids and we are hoping to visit a family-friendly place where we can appreciate the wildlife and see animals up close in their enclosures, preferably one with pandas and polar bears.
+travelling with my kids	family-friendly	wildlife	animals	pandas	polar bears
+Besides day activities, are there any other evening attractions or things to do besides visiting the Singapore zoo?
+evening attractions
+Yes sir, Clarke Quay is the place you are looking for. Bustling bars and shopping centres, Singapore’s night life is on a roll. An ideal spot for all the part animals, Clark Quay is a delightful destination which emerges from the main river of the city.
+Clarke Quay	Bustling bars	shopping centres
+Hi, I'm planning a team bonding session for my department. Could you recommend an inexpensive place in Serangoon with happy hour beers and satay? And could you just make sure if the place accepts reservations? I need to confirm the date and timing when informing my team.
+team bonding session	inexpensive	Serangoon	happy hour beers	satay	reservations
+Hi i am interested in the Peranakan culture and I plan to visit a History Museum to explore more and do some sightseeing. Which museum offers free admission, numerous exhibits and knowledgeable staffs?
+Peranakan culture	History Museum	free admission	exhibits	knowledgeable staffs
+The picture in the landmark is The Singapore Flyer.
+The Singapore Flyer
+You can check out Carlton Hotel.  It is just opposite the road from Raffles Shopping Mall.
+Carlton Hotel	Raffles Shopping Mall
+Hello. I am a tourist looking for a great place to visit in Singapore with my girlfriend. I heard Singapore has an indoor garden that is air conditioned with cool architecture that is good for nice pictures.
+with my girlfriend	indoor garden	air conditioned
+hi! im travelling with my mate, and I'm hoping to find a romantic hotel near the heart of Chinatown. can I get a recommendation?
+with my mate	romantic hotel	Chinatown
+You can dine at Rang Mahal, a restaurant that offers healthy Indian food for their lunch buffet. It is located at Downtown Core.
+Rang Mahal	healthy Indian food	lunch buffet	Downtown Core
+I am  in Downtown Core, looking for a Food Centre for a quick meal before doing some sightseeing. I have this picture as reference for what I am looking for. I'm looking for a food court that is good for a quick meal and is inexpensive. As for the sightseeing, I want to visit at least 2 places. I found this picture of this outdoor sculpture online. It was described as an icon of Singapore.
+Downtown Core	Food Centre	a quick meal	picture	inexpensive	outdoor sculpture	icon of Singapore
+ok, can i get the address of it?
+address
+the address is 23B Coleman St. 179807 Singapore.
+address	23B Coleman St. 179807 Singapore
+You have to check out Alexandra Village Food Centre then!
+Alexandra Village Food Centre
+The restaurant is popular for their roti and butter mutton, as shown in the picture. You will not be disappointed! .
+roti	butter mutton	picture
+i recommend HortPark! it is a quiet park and good for photography.
+HortPark	quiet park	good for photography
+welcome! goodbye!
+
+i want to have authentic korean food.
+authentic	korean food
+You may head to the National Museum of Singapore. It is located in the Central Region provides an array of activities such as film screening, tours, art and photo galleries and a cafe. Do note that admission is free too.
+National Museum of Singapore	Central Region	array of activities	admission is free
+Sure, I don't mind. Do you mean BBQ? If it is, what is that place and do they take reservations?
+BBQ	take reservations
+Sure, I will check it out. Would you also find me a shopping center that has gong cha and massage?
+shopping center	gong cha	massage
+Got it. And do you have any images of specific places you would like to go to?
+images of specific places
+Is there a particular eatery that you are looking for?
+eatery
+No problem, bye.
+
+The temple is next to a highway, so don't expect complete silence. In fact, the traffic drone can serve as a tool to focus your mind inward on your practice.
+next to a highway
+okay, is there anything else you prefer?
+anything else
+what kind of bar will you like? Are you drinking alone? If you are drinking with friends, how many of you are there?
+kind of bar	how many of you
+You can try their waffles! Here's a picture of it.
+waffles	picture
+Hi, I am feeling quite tired and hungry and looking for somewhere around here to rest.
+tired and hungry	somewhere around here	to rest
+I see. Are there any other shopping malls that offer sales on their cosmetics? My husband is also looking for an island cafe for some ice cream. What mall should I head to?
+shopping malls	sales on their cosmetics	island cafe	ice cream
+Hi I am shopping in Downtown Core for Christmas sale. Which mall should I go to in order to find shirts, shoes and Christmas gifts?
+Downtown Core	Christmas sale	shirts	shoes	Christmas gifts
+I will be eating with my family.
+with my family
+The Martini Bar is the place for you. The best place in Singapore for Martinis!
+Martini Bar	Martinis
+Thanks. Anywhere near Singapore River where I can do dancing to the music? somewhere like this where i can drink wine and enjoy the night life.
+Singapore River	dancing to the music	wine	night life
+i am also looking for a restaurant  to get dinner, can you give me another recommendation?
+restaurant	dinner	another recommendation
+I am looking for an Indian restaurant in particular. It should be family-friendly and serve authentic indian food.
+Indian restaurant	family-friendly	authentic	indian food
+Sorry, there is only indoor seatings for this restaurant. Anything else i can help you with?
+indoor seatings	Anything else
+An indian restaurant with outdoor seating and regular lunch specials (vegetarian of course) sounds great. Would love a restaurant with good naan too.
+indian restaurant	outdoor seating	regular lunch specials	good naan
+You can go to PARKROYAL on Pickering.
+PARKROYAL on Pickering
+Great suggestion! I would also like to find a family-friendly Chinese Restaurant to try some Chinese dishes.
+family-friendly	Chinese Restaurant
+Ok!. Anything else i should try other than chicken rice? Do also order  Stuffed Bean Curd and Eggplant and Crispy Cereal Prawn when you visit.
+Stuffed Bean Curd	Eggplant	Crispy Cereal Prawn
+Hello, sure. Do you have any requirements for the hotel?
+any requirements
+do you require any amenities?
+any amenities
+Hello. I am travelling with my kids and we are hoping to visit an animal place where we can appreciate the wildlife.Are there any places in Singapore that you recommend?
+with my kids	animal place	wildlife
+Hi! Yes but first, what kind of experience are you looking for?
+kind of experience
+Wow! Sounds great! As we are planning to spend the whole day there, are there any other night attractions or things to do besides visiting the Singapore zoo?
+night attractions
+In that case, I recommend ibis Singapore on Bencoolen.
+ibis Singapore on Bencoolen
+I am also looking for museum or galleries for my child. I have a picture like this.
+museum	galleries	for my child	picture
+Have a great day ahead!
+
+Can I see how their food looks like?
+food looks like
+Sure! Do you have a specific region you want to buy Bak Kwa from?
+region	buy Bak Kwa
+If you're looking for some dessert after your meal, Zhao An Granny Grass Jelly will be ideal for you. Simply refreshing, with some toppings of your choice. Try the one with sea coconut.
+Zhao An Granny Grass Jelly	refreshing	sea coconut
+Hi I am  looking for a Food Court to try some local food, can you help? For example  chilli mee or noodles that look  like this.
+Food Court	local food	chilli mee	noodles
+i recommend Sun Ray Cafe! they have meals at great value, i recommend their coffee!
+Sun Ray Cafe	great value	coffee
+I am looking for a cozy and quiet tea room for some tea and eggs. Any recommendations?
+cozy	quiet	tea room
+Hello I am at Orchard road and I'm looking for a michelin star French Restaurant for lunch. Which restaurant would you recommend?
+Orchard road	michelin star	French Restaurant	lunch
+great, any suggestions?
+any suggestions
+Hi, I am travelling with a group of four people in Orchard Road, looking for places that are good for a quick meal. Indonesian Restaurant will be great. Probably with food like these. Or another simpler option would be a place that sells those kaya toast sets with soft boiled eggs on the side. I also need to find a shopping mall nearby that sells shoes.
+group of four people	Orchard Road	good for a quick meal	Indonesian Restaurant	food like these	kaya toast sets	soft boiled eggs	shopping mall	nearby	shoes
+It has a wide selection of stores, from eateries to apparel outlets.
+stores	eateries	apparel outlets
+Good morning. I heard there is an air conditioning garden in Singapore with lots of flowers such as tulips, roses and sunflowers. Can i know the name of this place.
+air conditioning garden	flowers
+Hello I am at Central region and I want to try both Tim Ho Wan and gong cha milk tea. Do you have any recommendations or suggestions?
+Central region	Tim Ho Wan	gong cha	any recommendations
+Great! I am also looking for a fancy dinner place that is good for dates with my girlfriend later for proposal. My girlfriend loves seafood like the one in the image (Can i know the name of this seafood too? for fun).
+fancy dinner
+Hello. I am looking for an Indian Restaurant for lunch and would like you to recommend a fancy restaurant that offers healthy food and is good for special occasions.
+Indian Restaurant	lunch	fancy restaurant	healthy food	good for special occasions
+The stores available include A.Lab, AIBI, BodyPerfect etc.
+storesA.Lab	AIBI	BodyPerfect
+I am looking for somewhere to have eat after hiking at Bukit Timah.
+eat	Bukit Timah
+What a bummer. Could you recommend me a family-friendly restaurant that has outdoor seating?
+family-friendly	restaurant	outdoor seating
+I'm looking for a restaurant that is Halal certified, where I can enjoy scenic views.
+restaurant	Halal	scenic views
+Hello. I am at Downtown Core and I am looking for a shopping mall that is near city hall mrt, one that has my favourite shop, Kate Spade New York store. Which mall do you recommend?
+Downtown Core	shopping mall	near city hall mrt	Kate Spade New York store
+Hello, I would recommend you to have lunch at Les Amis. Les Amis is a French Restaurant which was awarded two Michelin Stars in The Michelin Guide Singapore 2016. They serve basket of freshly baked breads and offer Alaskan King Crab as one of their mains. I think you will definitely enjoy the delicious home-made food and exquisite service there!
+Les Amis	French restaurant	awarded two Michelin Stars	freshly baked breads	Alaskan King Crab	delicious home-made food	exquisite service
+I see. Sounds great! I would also like to head to a Landmark office building afterwards to explore. Where can I find this building and how does it look like?
+great	Landmark office building	Where	look like
+You can visit Parkview Square. Attached are images of the office building for your reference.
+Parkview Square	images
+Spize would be a good choice for you. It is a Halal restaurant. This place has many dinner food items and a huge selection of ice cream cakes to choose from!
+Spize	Halal restaurant	dinner food items	ice cream cakes
+Great! I am also  looking for some vitamins to buy. Is there a GNC store there?
+vitamins to buy	GNC
+The address is #B1-07, Great World City (1 Kim Seng Promenade) 237994 Singapore and they do accept credit cards. This is a picture of a dish there for you to take a look.
+address	#B1-07, Great World City (1 Kim Seng Promenade) 237994 Singapore	accept credit cards	picture	dish
+Oh no. Could you recommend me a family-friendly restaurant that has outdoor seating?
+recommend	family-friendly restaurant	outdoor seating
+i  Highly recommended come early to have a good spot !
+recommended	come early	good spot
+Wow! Sounds great! As we are planning to spend the whole day there, are there any other attractions or things to do ?
+great	spend the whole day	other attractions	things to do
+Hi I am at Orchard Road and there are so many shopping malls here! Which shopping mall has bakeries and many shops?
+Orchard Road	shopping malls	shopping mall	bakeries	many shops
+You can visit Wheelock Place. This mall has bakeries selling many cakes and breads.
+Wheelock Place	bakeries	cakes and breads
+Their sambal kangkong is a must try if you are a fan of spicy food! Other signature dishes include their XO rice, penang rendang and their nonya curry!
+sambal kangkong	must try	spicy food	signature dishes	XO rice	penang rendang	nonya curry		
+Hi i am planning to have my lunch at a hotel buffet. It should be at downtown core and include cantonese food, dim sum, pancakes and martinis.
+lunch	hotel buffet	at downtown core	cantonese food, dim sum, pancakes and martinis
+Yes, there are plenty.
+plenty
+Hello I want to shop at Downtown Core in search for clothing during this Christmas sale.
+shop	Downtown Core	clothing	Christmas sale
+This seems to be the place I am looking for. Could you give me some tips about this place?
+tips
+Hello I am looking for a place to stay in the Kallang area of Singapore, preferably one that offers spacious rooms and overlooks water views. Where do you recommend?
+Kallang area of Singapore	spacious rooms	overlooks water views
+Ok!  I  am also looking for a place for some dessert like the one i shown in the picture (do tell me the name of this dessert). And i am also craving for some naan and a place that is simply good for a quick meal .
+dessert	picture	tell me the name	good for a quick meal
+yes just one last one. im interested to watch light or music shows. could you let me know where this is?
+watch light or music shows	where
+ok thanks. I am also looking somewhere quiet to show my family the history of singapore and then dine at a cafe afterwards. Perhaps a  history musesum ike that of in the picture.
+quiet	history of singapore	dine at a cafe	history musesum	picture
+You can get free admission by flashing your identity card.
+free admission	flashing your identity card
+i see, ok! thank you for your help! that is all.
+ok	that is all
+Manhattan is the place you are looking for.
+Manhattan
+Thanks, any suggestions?
+suggestions
+No, that's it. Thanks.
+No
+Hi I want to try out fish head steamboat and maybe some duck wing . I need the place to be good for groups as I am going with my friends. something  great value like this.
+fish head steamboat	duck wing	good for groups	going with my friends	great value
+Try the chilli duck wings.
+chilli duck wings
+You can visit the Asian Civilisations Museum then. This History museum is also frequently visited for its guided tours, various exhibits and antiques!
+Asian Civilisations Museum	guided tours	various exhibits	antiques
+i will like to watch some concerts in a nice theatre.
+watch some concerts	nice theatre
+Hey I am looking for somewhere to have lunch nearby. Where do you suggest?
+have lunch nearby
+Good morning! I am looking for a bar in the Central Region! I would love a place with good english pop and live music. I am curious about the price range too. Thanks!
+bar	Central Region	good english pop and live music	price range
+i recommend the olive rice, kailan, beef and thai iced-tea!  you can also try their mango sticky rice for dessert.
+olive rice	kailan	beef	thai iced-tea	mango sticky rice	dessert
+great! can i get some tips on what's good to have there?
+tips	good to have
+You should take the boat ride down Singapore river to enjoy the scenery at night.
+take the boat ride down Singapore river	enjoy the scenery at night
+Great! Is there a GNC store there?
+GNC
+Hello! I am planning my day.  I want to try some authentic chillicrabs and lobsters at great value as seen in these images. Can you recommend me a good seafood restaurant? Would love to hear your recommendations and tips from online too.
+authentic chillicrabs	lobsters	at great value	these images	seafood restaurant	recommendations and tips from online
+Hello. I recommend you to visit Jumbo Seafood Restaurant . Aside from the Black pepper chilli crab, you can also order the lobster salad as starters, they are very popular with the customers.
+Jumbo Seafood Restaurant	Black pepper chilli crab	lobster salad as starters
+You can visit Rainforest Kidzworld, which is located at Central Catchment Nature Reserve. This place offers water parks and playgrounds for your kids to enjoy!
+Rainforest Kidzworld	located at Central Catchment Nature Reserve	water parks and playgrounds	kids
+Hello I am looking for accommodation in the Kallang area of Singapore, preferably one that offers clean rooms and water views. Which hotel do you recommend?
+Kallang area of Singapore	clean rooms	water views	hotel
+You can go to Les Amis. Their menu offers beef tenderloin, Alaskan King Crab, gnocchi and many other fancy dishes. The take pride in their fresh baked breads, as shown in the photo!
+Les Amis	beef tenderloin	Alaskan King Crab	gnocchi	fancy dishes	fresh baked breads
+Hey I am travelling with my girl and we are looking for a landmark hotel with casino and infinity pool to stay. It should be located near the finanical district. It looks like this.
+travelling with my girl	landmark hotel with casino and infinity pool	near the finanical district	like this
+You can visit the Singapore Cricket Club, where you can watch rugby matches and practices and then have dinner at the restaurants in the vicinity!
+Singapore Cricket Club	watch rugby matches and practices	have dinner	restaurants in the vicinity
+i recommend Quayside isle at sentosa island. it is a great place to chill and enjoy the seabreeze.
+Quayside isle	sentosa island	great place to chill	seabreeze
+what are the dining options and drinks?
+dining options	drinks
+Raffles City Shopping Centre, which is located at Downtown Core near City Hall mrt, will be the perfect place for you! The mall has both CHANEL and Coach, amongst many other brands like MPH, MuYoo, Parallel, Forever New and Jack Wills.
+Raffles City Shopping Centre	located at Downtown Core near City Hall mrt	CHANEL	Coach	brands like MPH, MuYoo, Parallel, Forever New and Jack Wills
+Could I get the address of the place and some suggestions about it? Do you have any pictures of it too?
+address	suggestions	pictures
+Hello! I'd be glad to assist. Do you have any specific requirements?
+specific requirements
+Hey i am  looking for a good hotel in Downtown Core. We are hoping to eat hotel buffet with  sushi and maybe Cantonese food like dim sum.
+good hotel	Downtown Core	eat hotel buffet with  sushi	Cantonese food like dim sum
+You can visit Parkview Square. Attached are images of the office building for your reference. You will definitely be able to recognise the Monument!
+Parkview Square	images of the office building	Monument
+Could you recommend a cafe that serves drinks and brownies at a great value?
+recommend	cafe	serves drinks and brownies	at a great value
+You should check out the scenic view at night along singapore river.
+scenic view at night	singapore river
+You can go to Spize, a Halal restaurant which is located at Bukit Timah.
+Spize	Halal restaurant	located at Bukit Timah
+You should try their char siew bun and salted egg bun! This is a picture of the dim sum served there.
+char siew bun	salted egg bun	picture of the dim sum
+You can go to Tanglin Mall.
+Tanglin Mall
+Try Cafe Iguana! They serve tacos, burritos and chimichangas which are popular Mexican food items.
+Cafe Iguana	tacos, burritos and chimichangas	Mexican food
+will you like a food court?
+food court
+Thanks for the recommendation. I am interested in learning about the Buddhist culture so I would love to visit a temple in Chinatown that is known for its huge buddha statue. And do let me know if there is anything I should take note because I am not a buddhist. Dont want to offend another religion! Here are the images for your references!
+Buddhist culture	temple	Chinatown	huge buddha statue	anything I should take note	not a buddhist	images for your references
+Try Cafe Iguana! This cozy place serves tacos, which is from your photo, burritos, chimichangas and happy hour for their beers. Super affordable!
+Cafe Iguana	cozy	tacos	your photo	burritos
+you're welcome, goodbye!
+
+Maxwell Food Centre sounds great! Could you give me the address please? Afterwards, I want to find a Garden with a rainforest and scenic views. A botanical garden with trails. I've heard this place can hold concerts too.
+Maxwell Food Centre	great	address	Garden with a rainforest and scenic views	botanical garden with trails	hold concerts
+can i get the address and check the price range.
+address	price range
+I am also craving for beef. Would like a recommendation of a chinese restaurant in chinatown that serve delicious beef. I would also like to bring my girlfriend so it should be good for dates with nice cocktails too.
+beef	chinese restaurant	chinatown	delicious beef	good for dates	nice cocktails
+You can go to Jumbo Seafood Restaurant. This place in Tanglin is famous for their authentic chilli crabs as well as other seafood dishes like baby squid, shrimp, and fish soup.
+Jumbo Seafood Restaurant	Tanglin	authentic chilli crabs	seafood dishes	baby squid, shrimp, and fish soup
+i recommend Anchorpoint Shopping Centre! they have the food you want such as liho and spicy japanese curry!
+Anchorpoint Shopping Centre	liho and spicy japanese curry
+You can visit the Buddha Tooth Relic Temple & Museum at Chinatown. Offering museum tours and vegetarian food in the dining hall, this place is popular among curious tourists.
+Buddha Tooth Relic Temple & Museum at Chinatown	Offering museum tours 	vegetarian food
+Hi I want to have a lunch buffet today in a Indian restaurant that also serves healthy food. Do you have recommendations for the restaurant?
+lunch buffet	Indian restaurant	healthy food	recommendations
+the address is 585 North Bridge Rd, #01-01 Raffles Hospital, Singapore 188770 i recommend the bacon and quiches!
+address	585 North Bridge Rd, #01-01 Raffles Hospital, Singapore 188770	bacon	quiches
+i am also planning to go to a bar afterwards, can you give me a recommendation?
+bar	recommendation
+Hi. May I know which region are currently in?
+which region	currently
+They also give guests a free smartphone to use during their entire stay (in and out of the hotel) with free WiFi and local & international calls.
+free smartphone	free WiFi	local & international calls
+Wow! Sounds great! As we are planning to spend the whole day there, are there any other attractions or things to do besides visiting the Singapore zoo?
+great	spend the whole day	other attractions or things to do	visiting the Singapore zoo
+I would recommend Summer Pavilion restaurant. They serve best Peking duck & Michelin stars.
+Summer Pavilion restaurant	best Peking duck & Michelin stars
+This mall is a paradise for shopaholics it is connected to 2 others (Orchard Central, 313@Somerset) on the ground floor, like a covered alfresco walkway.
+shopaholics	Orchard Central, 313@Somerset	ground floor
+A hotel with private balconies, comfortable rooms.
+hotel	private balconies	comfortable rooms
+the address is 738 North Bridge Rd (Kg Glam Conservation Area) 198706 Singapore. they do not accept credit cards.
+738 North Bridge Rd (Kg Glam Conservation Area) 198706 Singapore	not accept credit cards
+You can go to Starbucks, located at Central Region. Many locals flock to this place for good frappes and coffee drinks!
+Starbucks	Central Region	good frappes	coffee drinks
+Sorry, I do not have any tips for it. Pizza Express seems like a good dinner option for you.
+do not have any tips	Pizza Express	good dinner option
+Ok..
+
+Ok, thanks. Is there another shopping mall in choa chu kang that I can go to?
+shopping mall	choa chu kang
+i will like the financial district.
+financial district
+I would recommend you to visit Raffles City Shopping Centre.
+recommend	Raffles City Shopping Centre
+i recommend W Singapore. You can check out the clean rooms and scenic views outside in the pictures i provided.
+recommend	W Singapore	clean rooms and scenic views	pictures
+You can go to Telok Blangah Crescent Market & Food Centre. It is wheelchair accessible.
+Telok Blangah Crescent Market & Food Centre	wheelchair accessible
+i recommend the chill crab spaghetti. you can also try the Charred romain with wasabi sauce, lime and ginger yellowfin tuna kinilaw, fries with truffle aioli and pickled olives, you can check out their food here!
+recommend	chill crab spaghetti	Charred romain with wasabi sauce, lime and ginger yellowfin tuna kinilaw, fries with truffle aioli and pickled olives
+their address is 1 Fullerton Rd, #01-06, Singapore 049213.
+address	1 Fullerton Rd, #01-06, Singapore 049213
+Sure, how about The Scarlet?
+Scarlet
+Okay. I would recommend Wisma Atria ! They have lots to offer and even food and a diverse set of products. .
+recommend	Wisma Atria	lots to offer	diverse set of products
+would you like to try this chicken curry noodles? they are very famous and give big portions!
+chicken curry noodles	famous	give big portions
+no they do not accept credit cards, the address is 738 North Bridge Rd (Kg Glam Conservation Area) 198706 Singapore.
+not accept credit cards	address	738 North Bridge Rd (Kg Glam Conservation Area) 198706 Singapore
+i will like this dish!
+like this dish
